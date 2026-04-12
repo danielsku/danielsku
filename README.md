@@ -1,26 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
+My name is Daniel Skurvidas, and I am a Software Engineering student at the University of Windsor. I’m passionate about problem-solving and enjoy building projects that create meaningful solutions and bring ideas to life.
 
-<div align="center">
-  ## Hi there 👋
-</div>
-<!--
-**danielsku/danielsku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Languages:** Java, JavaScript, Python, C  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Backend:** Spring Boot (REST APIs, WebSockets)  
 
-who you are?
-what are you currently working on?
-what tools do you use?
-how top reach you?
+**Databases:** MySQL, SQLite  
 
--->
+**Tools:** IntelliJ IDEA, VS Code, Eclipse 
+
+## 📈 Currently Learning
+- Data structures and algorithms
+- Backend development with Spring Boot
+- JavaScript and React
