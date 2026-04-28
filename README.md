@@ -6,7 +6,7 @@ My name is Daniel Skurvidas, and I am a Software Engineering student at the Univ
 
 **Languages:** Java, JavaScript, Python, C  
 
-**Backend:** Spring Boot (REST APIs, WebSockets)  
+**Backend:** Spring Boot 
 
 **Databases:** MySQL, SQLite  
 
